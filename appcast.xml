@@ -7,11 +7,11 @@
         <item>
             <title>Version 1.1.1</title>
             <sparkle:releaseNotesLink>
-                https://github.com/olehhhm/noteert-windows/blob/main/release_notes.html
+                https://raw.githubusercontent.com/olehhhm/noteert-windows/main/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com//olehhhm/noteert-windows/releases/download/v1.1.1/noteert-1.1.1+1.1.1-windows.zip"
-                       sparkle:dsaSignature="MEQCIHDz33g78dmcEDxKI4Zxm+ZQ8LL4cd8cphSaBdrBlp03AiAUJFXvnOPEdaPKZF7zqMn8n5SrAuX6YW4h9qzfem+3aA=="
+                       sparkle:dsaSignature="MEQCIB/kRCpi1T5un8hTHSsZfkccHtdbjcRQ9slkcyZy4HfKAiAZvBVHTJaP6CGidiEqbQh3bTxBQSDJLpgFTbJ4GOFr4Q=="
                        sparkle:version="1.1.1"
                        sparkle:os="windows"
                        length="0"
