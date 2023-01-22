@@ -10,7 +10,7 @@
                 https://raw.githubusercontent.com/olehhhm/noteert-windows/main/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://github.com//olehhhm/noteert-windows/releases/download/v1.1.1/NoteerT.exe"
+            <enclosure url="https://github.com/olehhhm/noteert-windows/releases/download/v1.1.1/NoteerT.exe"
                        sparkle:dsaSignature="MEUCIH/70XrUI2vBvrnR8u/HSNrzs3eQwBDSewyOa2OUxJ8SAiEAmcGxW9XCZysNFJCYOQNyntNEABU0Ldsm3Rmz3pT9iZA="
                        sparkle:version="1.1.1"
                        sparkle:os="windows"
