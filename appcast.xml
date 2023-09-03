@@ -22,10 +22,11 @@
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/olehhhm/noteert-windows/main/release_notes.html
             </sparkle:releaseNotesLink>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/olehhhm/noteert-windows/releases/download/v0.5.0/NoteerT.dmg"
                        sparkle:edSignature="gtJB8eylSao3LrXNOITXVDGtPFL0yFQkBuKRA9NYswv6i9LycmvvLpZjEqOchHd5Lv1HBBHUzh6iaJLy8DoUCQ=="
-                       sparkle:version="0.5.0"
                        sparkle:os="macos"
                        length="27584393"
                        type="application/octet-stream" />
