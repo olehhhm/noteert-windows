@@ -29,6 +29,7 @@
                        sparkle:edSignature="Keyz7OdV7Qvz6/Pfmn6/QcL287CUnPRakJY3bXHzRAWw8oguGSrIUsl6Ixy7iS6T/afRVZhcrLP3Hxs3qqiIDg==" length="30305879"
                        sparkle:os="macos"
                        type="application/octet-stream" />
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
         </item>
     </channel>
 </rss>
