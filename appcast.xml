@@ -22,6 +22,7 @@
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/olehhhm/noteert-windows/releases/download/v0.5.0/NoteerT.dmg"
                        rsaSignature="LtEH+hMHqHRF1APlAxiuPq2SsY27gMW4IxzQqKKZ7wdxnVY5ZG7h3w5tiImgPWb5Yx+6EtfwE3EbwM28+s73F3Wnwa/O0aHA7iO9eu4BjTxqZexGrlqt6Pa1HBoiYOesE2Pu05jA8CNCYgJASKfDy8w+sF/dSaVqUUE3dQpdhLDuzF7zrtI0E+GFLi0xu83XCV41sfPaGXKtBzZuLBGGM785RzcJGpXUOHADCLxidqixKnn37dKBRmMV+/po25lJAyM4TEj+WZKKDz8SCHv7TFn2rtBM6uwnwYNZ6p4JfW5zkIUJme0sZbRL9tvg3dt+hl7HFNWMFaRpceCWjENxsA==" length="0"
+                       version="0.4.3"
                        os="macos"
                        type="application/octet-stream" />
         </item>
